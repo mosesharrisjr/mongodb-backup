@@ -2,8 +2,6 @@ The original repo hasn't been updated in a while.  I added a few fixes.  Auth sh
 
 # mongodb-backup
 
-[![Deploy to Tutum](https://s.tutum.co/deploy-to-tutum.svg)](https://dashboard.tutum.co/stack/deploy/)
-
 This image runs mongodump to backup data using cronjob to folder `/backup`
 
 ## Usage:
