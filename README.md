@@ -1,4 +1,4 @@
-The original repo hasn't been updated in a while.  I added a few fixes.  Auth should work fine now.
+The original repo (https://hub.docker.com/r/requilence/mongodb-backup) hasn't been updated in a while.  I added a few fixes.  Auth should work fine now.
 
 # mongodb-backup
 
